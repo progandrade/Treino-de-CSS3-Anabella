@@ -1,0 +1,65 @@
+body {
+    background-image: url('imagens/fundo.png');
+    margin: 0px;
+    padding: 0px;
+}
+
+.conteudo {
+    margin: 0%;
+    padding: 0%;
+}
+
+.capa {
+    width: 100%;
+    margin: 0 0 0 0;
+}
+
+.navbar {
+    text-align: center;
+    background-color: rgb(175, 163, 137);
+    padding: 10px 0px 10px 0px;
+}
+
+.botton {
+    text-decoration: none;
+    color:rgb(83, 83, 110);
+    font-family: serif;
+    font-weight: bold;
+}
+
+.container {
+    background-color: white;
+    padding: 1px 0 0 0;
+}
+
+.titulo {
+    padding: 0px 0px 3px 10px;
+    color: rgb(138, 128, 107);
+}
+
+.paragrafo {
+    padding: 0 10px 10px 10px;
+}
+
+.reservado {
+    text-align: center;
+    color: rgb(55, 56, 65);
+    margin: 0;
+    padding: 10px 0 0 0;
+}
+
+.centralizar {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.imagens {
+    width: 70%;
+    margin: 0 0 10px 10px;
+    border: 7px solid rgb(175, 163, 137);
+}
+
+.contato {
+    padding: 0px 0 5px 5px;
+    margin: 0;
+}
